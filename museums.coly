@@ -18,7 +18,7 @@ initHTML
     "a href='index.html'" tag
         "Home" button
         'a' cTag
-    "a href=''" tag
+    "a href='sport.html'" tag
         "Sport" button
         'a' cTag
     "a href=''" tag
@@ -30,5 +30,5 @@ initHTML
     "nav" cTag
     br
     "div" cTag
- "I've been to a lot of museums with my parents and grandparents over the years, i personally enjoy the museums where you can do something more then the museums where you just look at art " p
+ "I've been to a lot of museums with my parents and grandparents over the years, i personally enjoy the museums where you can do something more then the museums where you just look at art. " p
 "body" cTag

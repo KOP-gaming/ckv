@@ -1,4 +1,4 @@
-macro HTMLOutputFile { "../ckv/index.html" }
+macro HTMLOutputFile { "../ckv/sport.html" }
 include "htmlgen.coly"
 include "macro.coly"
 
@@ -18,11 +18,11 @@ initHTML
     br
     "div" tag
     "nav" tag
+    "a href='index.html'" tag
+        "Home" button
+        'a' cTag
     "a href='museums.html'" tag
         "Museums" button
-        'a' cTag
-    "a href='sport.html'" tag
-        "Sport" button
         'a' cTag
     "a href=''" tag
         "Theme parks" button
@@ -33,7 +33,6 @@ initHTML
     "nav" cTag
     br
     "div" cTag
-    "I made this project into a website because i want to practice writing code and this seemed like the oppurtunity to make a big project." p
-    
+    ""
     "body" cTag
 "html" cTag
