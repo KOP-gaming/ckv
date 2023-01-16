@@ -1,0 +1,23 @@
+//plain text
+macro p {
+    "p" wTag
+}
+//bold text
+macro b {
+    "b" wTag
+}
+//bold header
+macro hb {
+   "b" tag "h1" tag
+    pushHTML
+  "h1" cTag "b" cTag
+}
+//button
+macro button {
+    "button" tag
+    pushHTML
+    "button" cTag
+}
+macro br {
+    "br" tag
+}

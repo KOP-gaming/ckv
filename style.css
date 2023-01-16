@@ -1,0 +1,13 @@
+header {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    border-bottom: 1px solid #454040;
+  }
+
+nav {
+  display:grid;
+  align-items: center;
+  justify-items: center;
+  border-bottom: 1px solid #454040;
+}

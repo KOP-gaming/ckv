@@ -1,0 +1,33 @@
+include "htmlgen.coly"
+include "macro.coly"
+
+
+initHTML
+
+"style.css" linkCSS
+
+
+
+
+"html" tag
+    "header" tag
+    "Owen" hb
+    "header" cTag
+    "nav" tag
+    "a href=''" tag
+        "Museums" button
+        'a' cTag
+    "a href=''" tag
+        "Sport" button
+        'a' cTag
+    "a href=''" tag
+        "Theme parks" button
+        'a' cTag
+    "a href=''" tag
+        "Countries" button
+        'a' cTag
+    "nav" cTag
+    "body" tag
+
+    "body" cTag
+"html" cTag
