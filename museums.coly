@@ -1,3 +1,4 @@
+macro HTMLOutputFile { "../ckv/museums.html" }
 include "htmlgen.coly"
 include "macro.coly"
 
@@ -6,19 +7,16 @@ initHTML
 
 "style.css" linkCSS
 
+"head" tag
 
+"head" cTag
 
-
-"html" tag
-    "header" tag
-    "Owen" hb
-    "header" cTag
-    "body" tag
-    br
+"body" tag
+ br
     "div" tag
     "nav" tag
-    "a href='museums.html'" tag
-        "Museums" button
+    "a href='index.html'" tag
+        "Home" button
         'a' cTag
     "a href=''" tag
         "Sport" button
@@ -32,5 +30,5 @@ initHTML
     "nav" cTag
     br
     "div" cTag
-    "body" cTag
-"html" cTag
+ "I've been to a lot of museums with my parents and grandparents over the years, i personally enjoy the museums where you can do something more then the museums where you just look at art " p
+"body" cTag

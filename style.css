@@ -5,9 +5,10 @@ header {
     border-bottom: 1px solid #454040;
   }
 
-nav {
+div {
   display:grid;
   align-items: center;
-  justify-items: center;
+  justify-items:center;
   border-bottom: 1px solid #454040;
 }
+
