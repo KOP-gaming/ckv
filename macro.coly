@@ -21,3 +21,8 @@ macro button {
 macro br {
     "br" tag
 }
+macro img {
+    "<img class='img' src='" 
+    swap "'style='width:170px;height:140px;'>\n" concat concat
+    HTMLOutputFile fAppend
+}
