@@ -1,3 +1,6 @@
+html {
+  zoom:200%;
+}
 header {
     display: grid;
     align-items: center;
