@@ -35,10 +35,6 @@ initHTML
     "div" cTag
     "I made this project into a website because i want to practice writing code and this seemed like the oppurtunity to make a big project." p
     br
-    "div class='slideshow-container" tag
-        "div class='mySlides-fade" tag
-           "/pics/cute.jpg" img
-        "div" cTag
-    "div" cTag
+   "pics/cute.jpg" img
     "body" cTag
 "html" cTag

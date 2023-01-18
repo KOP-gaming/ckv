@@ -26,3 +26,8 @@ macro img {
     swap "'style='width:170px;height:140px;'>\n" concat concat
     HTMLOutputFile fAppend
 }
+macro he {
+   "b" tag "h3" tag
+    pushHTML
+  "h3" cTag "b" cTag
+}
