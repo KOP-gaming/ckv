@@ -21,14 +21,33 @@ initHTML
     "a href='sport.html'" tag
         "Sport" button
         'a' cTag
-    "a href=''" tag
+    "a href='parks.html'" tag
         "Theme parks" button
         'a' cTag
-    "a href=''" tag
+    "a href='countries.html'" tag
         "Countries" button
         'a' cTag
     "nav" cTag
     br
     "div" cTag
  "I've been to a lot of museums with my parents and grandparents over the years, i personally enjoy the museums where you can do something more then the museums where you just look at art. " p
+ "pics/archeon1.jpg"img
+ "pics/archeon2.jpg"img
+ "pics/muiderslot.jpg"img
+ "I also went to the bloemencorso a couple of years with my parents, this was very interesting because they manage to make carnaval like floats almost completely out of fresh flowers"p
+ "pics/bloemencorso1.jpg"img
+ "pics/bloemencorso3.jpg"img
+ "pics/bloemencorso9.jpg"img
+ "pics/bloemencorso7.jpg"img
+ "My dad and I also went to Monster Jam in de kuip 2 times which is still one of the only reasons you can get me to a football stadium willingly."p
+ "I really enjoyed this and think it is very cool to see what you can do if you have time to over engineer a truck"p
+ "pics/monsterjam7.jpg"img
+ "pics/monsterjam1.jpg"img
+ "pics/monsterjam8.jpg"img
+ "pics/monsterjam9.jpg"img
+ "We also went to a festival called Fête du Babau in France which is a festival about a dragin in a river who eats children who swim after 18:00"p
+ "pics/fetedebabau3.jpg"img
+ "pics/fetedebabau4.jpg"img
+ "pics/fetedubabau2.jpg"img
+
 "body" cTag

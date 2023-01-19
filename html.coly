@@ -19,15 +19,15 @@ initHTML
     "div" tag
     "nav" tag
     "a href='museums.html'" tag
-        "Museums" button
+        "Museums and culture" button
         'a' cTag
     "a href='sport.html'" tag
         "Sport" button
         'a' cTag
-    "a href=''" tag
+    "a href='parks.html'" tag
         "Theme parks" button
         'a' cTag
-    "a href=''" tag
+    "a href='countries.html'" tag
         "Countries" button
         'a' cTag
     "nav" cTag
@@ -35,6 +35,6 @@ initHTML
     "div" cTag
     "I made this project into a website because i want to practice writing code and this seemed like the oppurtunity to make a big project." p
     br
-   "pics/cute.jpg" img
+   "pics/topgunmav.jpg" img
     "body" cTag
 "html" cTag

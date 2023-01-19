@@ -1,0 +1,28 @@
+macro HTMLOutputFile{"../ckv/countries.html"}
+include "htmlgen.coly"
+include "macro.coly"
+
+
+initHTML
+
+"style.css" linkCSS
+
+"body" tag
+ br
+    "div" tag
+    "nav" tag
+    "a href='index.html'" tag
+        "Home" button
+        'a' cTag
+    "a href='sport.html'" tag
+        "Sport" button
+        'a' cTag
+    "a href='parks.html'" tag
+        "Theme parks" button
+        'a' cTag
+    "a href='museums.html'" tag
+        "Museums and culture" button
+        'a' cTag
+    "nav" cTag
+    br
+    "div" cTag
