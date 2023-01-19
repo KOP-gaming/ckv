@@ -14,4 +14,8 @@ div {
   justify-items:center;
   border-bottom: 1px solid #454040;
 }
+img{
+  max-width: 100%;
+  height: auto;
+}
 
