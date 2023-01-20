@@ -33,7 +33,7 @@ initHTML
     "nav" cTag
     br
     "div" cTag
-    "I made this project into a website because i want to practice writing code and this seemed like the oppurtunity to make a big project." p
+    "I made this project into a website because I want to practice writing code and this seemed like the oppurtunity to make a big project." p
     br
    "pics/topgunmav.jpg" img
     "body" cTag
