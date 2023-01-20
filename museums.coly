@@ -7,6 +7,7 @@ initHTML
 
 "style.css" linkCSS
 
+"html"tag
 "head" tag
 
 "head" cTag
@@ -30,7 +31,7 @@ initHTML
     "nav" cTag
     br
     "div" cTag
- "I've been to a lot of museums with my parents and grandparents over the years, i personally enjoy the museums where you can do something more then the museums where you just look at art. " p
+ "I've been to a lot of museums with my parents and grandparents over the years, I personally enjoy the museums where you can do something more then the museums where you just look at art. " p
  "pics/archeon1.jpg"img
  "pics/archeon2.jpg"img
  "pics/muiderslot.jpg"img
@@ -45,9 +46,10 @@ initHTML
  "pics/monsterjam1.jpg"img
  "pics/monsterjam8.jpg"img
  "pics/monsterjam9.jpg"img
- "We also went to a festival called Fête du Babau in France which is a festival about a dragin in a river who eats children who swim after 18:00"p
+ "We also went to a festival called Fête du Babau in France which is a festival about a dragon in a river who eats children who swim after 18:00"p
  "pics/fetedebabau3.jpg"img
  "pics/fetedebabau4.jpg"img
  "pics/fetedubabau2.jpg"img
 
 "body" cTag
+"html"cTag

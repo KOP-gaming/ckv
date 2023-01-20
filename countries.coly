@@ -7,6 +7,7 @@ initHTML
 
 "style.css" linkCSS
 
+"html"tag
 "body" tag
  br
     "div" tag
@@ -26,3 +27,11 @@ initHTML
     "nav" cTag
     br
     "div" cTag
+    "When I am not in the netherlands I enjoy going on walks trough nature and visiting things like castles."p
+    "I don't like going to big cities and busy places."
+    "pics/puntacana2.jpg"img
+    "pics/puntacana3.jpg"img
+    "pics/lanzarotte1.jpg"img
+    "pics/frankrijkzwembad2019.jpg"img
+    "body"cTag
+    "html"cTag
